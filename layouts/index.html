@@ -2,7 +2,7 @@
 {{ range (where site.RegularPages "Section" "posts").ByDate.Reverse }}
 <article>
   <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-  <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+  <time datetime="{{ .Date.Format "2006-01-02" }}"><a href="{{ .Permalink }}">{{ .Date.Format "January 2, 2006" }}</a></time>
   {{ .Content }}
   <hr>
 </article>
