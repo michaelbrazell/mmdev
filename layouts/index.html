@@ -1,10 +1,13 @@
 {{ define "main" }}
-{{ range (where site.RegularPages "Section" "posts").ByDate.Reverse }}
-<article>
+{{ $posts := (where site.RegularPages "Section" "posts").ByDate.Reverse }}
+{{ range $index, $page := $posts }}
+<article class="post">
   <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
   <time datetime="{{ .Date.Format "2006-01-02" }}"><a href="{{ .Permalink }}">{{ .Date.Format "January 2, 2006" }}</a></time>
   {{ .Content }}
-  <hr>
+  {{ if ne (add $index 1) (len $posts) }}<hr>{{ end }}
 </article>
 {{ end }}
+<hr class="dotted">
+<p class="sign-off"><a href="/about/">MM &middot; 2026</a></p>
 {{ end }}
