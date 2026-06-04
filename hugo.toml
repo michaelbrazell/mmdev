@@ -1,0 +1,9 @@
+baseURL = 'https://mikemurray.dev/'
+locale = 'en-us'
+title = 'Mike Murray'
+
+[permalinks]
+  posts = '/:slug/'
+
+[markup.goldmark.renderer]
+  unsafe = true
