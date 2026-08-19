@@ -22,7 +22,9 @@ When I saw the [Bob Odenkirk interview from Mike Birbiglia's podcast](https://yo
 
 > _Birbiglia_: "Who are you jealous of?"
 
-> _Odenkirk_: "Anybody who has little kids at home, growing up. ... Yeah, there's no question I knew what I was doing when I had kids growing up, I was being a dad. I mean, that was my job, and I didn't have to ask myself, '_What am I doing here? How can I be a part of this world? How can I be meaningful today?_' I didn't have to ask that question, because the fucking answer is '_Pick up everything between here and the door, and make sure they get to school, and have a laugh with them._'. **I understood my purpose**."
+> _Odenkirk_: "Anybody who has little kids at home, growing up. ... Yeah, there's no question I knew what I was doing when I had kids growing up, I was being a dad. I mean, that was my job, and I didn't have to ask myself, '_What am I doing here? How can I be a part of this world? How can I be meaningful today?_' I didn't have to ask that question, because the fucking answer is '_Pick up everything between here and the door, and make sure they get to school, and have a laugh with them._'. 
+
+> **I understood my purpose**."
 
 And god, that fucking resonates with me so, so hard. It still makes me cry when I hear that or see the clips, because I realized that when I was answering that question every other time trying to describe myself, and when I answered with what I do, and what I studied, and where I'm from, or what my hobbies are, those were all bull shit. And now when I think of who I am, I know who I am, I am Tilly and Mickey's dad.
 
